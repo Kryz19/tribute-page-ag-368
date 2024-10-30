@@ -1,2 +1,2 @@
 # tribute-page-ag-368
-Placeholder Text
+Tribute page of George Washington made using freecodecamp.org
